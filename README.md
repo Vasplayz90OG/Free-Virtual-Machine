@@ -1,10 +1,6 @@
 # ⚡ Free-VMS | Ultimate Leapfrog Engine
 
-https://img.shields.io/badge/ArizNodes-HVM_Engine-purple
-https://img.shields.io/badge/Type-Multi_Link_VPS-blue
-https://img.shields.io/badge/Platform-GitHub_Actions-black
-https://img.shields.io/badge/Status-Leapfrog_Active-green
-https://img.shields.io/badge/Cost-100%25_FREE-green
+
 
 Warning: This project abuses GitHub Actions to create free, ephemeral VPS environments. Use a burner GitHub account. I am not responsible if GitHub bans your main account for violating their ToS.
 
